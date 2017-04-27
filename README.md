@@ -1,6 +1,5 @@
-# simple_webpack_starter
 
-## Webpack Project Starter
+# Webpack Project Starter
 
 ```
 npm install
