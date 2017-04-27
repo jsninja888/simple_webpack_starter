@@ -1,9 +1,18 @@
 # simple_webpack_starter
 
+### H1 Webpack Project Starter
+
+```
 npm install
+```
 
-Development
+### H3 Development
+ 
+ ```
  npm run dev
+```
 
-Production
- npm run prod
+### H3 Production
+```
+npm run prod
+```
